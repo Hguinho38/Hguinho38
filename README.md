@@ -1,4 +1,4 @@
-### Oláa! Eu sou o Hugo, apaixonado em video game e tecnologia!. 👋
+### Oláa! Eu sou o Hugo, apaixonado por video games e tecnologia!. 👋
 
 <!--
 **Hguinho38/Hguinho38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
